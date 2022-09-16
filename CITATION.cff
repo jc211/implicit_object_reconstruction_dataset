@@ -6,11 +6,3 @@ authors:
 title: "NeRF Cube Diorama Dataset"
 date-released: 2022-09-16
 url: "https://github.com/github/implicit_object_reconstruction_dataset"
-preferred-citation:
-  type: dataset
-  authors:
-  - family-names: "Abou-Chakra"
-    given-names: "Jad"
-    orcid: "https://orcid.org/0000-0002-9122-3132"
-  title: "NeRF Cube Diorama Dataset"
-  year: 2022
